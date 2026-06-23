@@ -1,2 +1,2 @@
-# mech-interp-tutorials-neel-nanda
-Following his tutorials and doing small projects
+# mech-interp-tutorials
+Following tutorials and doing small projects
